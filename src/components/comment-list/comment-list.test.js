@@ -1,4 +1,3 @@
-import React from 'react'
 import { mount } from 'enzyme'
 import CommentList from './index'
 import articles from '../../fixtures'
